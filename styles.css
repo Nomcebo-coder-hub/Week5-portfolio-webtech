@@ -36,6 +36,11 @@ header nav .logo {
 body {
   font-family: "Poppins", sans-serif;
 }
+
+h6 {
+  margin-top: 20px;
+}
+
 .container {
   max-width: 1152px;
   padding: 0 15px;
