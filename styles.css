@@ -205,12 +205,3 @@ section.services .card-grid .card p {
   color: var(--secondary);
   line-height: 1.6;
 }
-section.services .card-grid .card:hover {
-  background: var(--primary);
-}
-section.services .card-grid .card:hover h2 {
-  color: var(--white);
-}
-section.services .card-grid .card:hover p {
-  color: var(--white);
-}
